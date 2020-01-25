@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Lab2-3</string>
+    <string name="crust">Crust</string>
+    <string name="topping">Toppings</string>
+    <string name="dining">Dining Location</string>
+    <string name="size">Pizza Size</string>
+
+    <!-- Crust Types -->
+    <string name="crispy">Crispy</string>
+    <string name="thick">Thick</string>
+    <string name="soggy">Soggy</string>
+    <string name="cheesy">Cheese Stuffed</string>
+
+    <!-- Toppings -->
+    <string name="fish">Anchovies</string>
+    <string name="pineapple">Pineapple</string>
+    <string name="herb">Garlic</string>
+    <string name="okra">Okra</string>
+
+    <!-- Dining Options -->
+    <string name="inHouse">At Restaurant</string>
+    <string name="toGo">Pickup</string>
+    <string name="delivery">Delivery</string>
+
+    <!-- Total -->
+    <string name="total">$0.00</string>
+
+
+</resources>
